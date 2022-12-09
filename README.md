@@ -23,9 +23,9 @@ of multiple renames using a single command.
 The script is a single file that will work with any Python 3.7+.  If you
 prefer, install with:
 
-``console
+```console
 pip install rename
-``
+```
 
 There used to be a version compatible with Python 2.4 - 2.7.  To use that
 one, install `rename==1.2`.
